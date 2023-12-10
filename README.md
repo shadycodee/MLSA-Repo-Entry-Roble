@@ -1,2 +1,2 @@
-<h1>My entry for "Ready Na Mag-Commit</h1>
-<h2>Workshop by: CITU Notion</h2>
+<h1>My entry for "Ready Na Mag-Commit" Workshop</h1>
+<h2>by: CITU Notion</h2>
